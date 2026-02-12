@@ -1,0 +1,27 @@
+---
+componentName:  penguin
+
+strings:
+    productName:         PENGUIN Desktop Linux
+    shortProductName:    PENGUIN
+    version:             0.1 TEST
+    shortVersion:        0.1
+    versionedName:       PENGUIN Desktop 0.1 TEST "Rusty Trombone"
+    shortVersionedName:  PENGUIN 0.1
+    bootloaderEntryName: PENGUIN
+    productUrl:          https://penguin.fyi/
+    supportUrl:          https://penguin.fyi/bugs/
+    knownIssuesUrl:      https://penguin.fyi/about/
+    releaseNotesUrl:     https://penguin.fyi/about/
+
+images:
+    productLogo:         "penguin-logo.png"
+    productIcon:         "penguin-logo.png"
+    productWelcome:      "languages.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#292F34"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#292F34"
