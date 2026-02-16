@@ -15,8 +15,8 @@ strings:
     releaseNotesUrl:     https://penguin.fyi/about/
 
 images:
-    productLogo:         "penguin-logo.png"
-    productIcon:         "penguin-logo.png"
+    productLogo:         "logo.png"
+    productIcon:         "logo.png"
     productWelcome:      "languages.png"
 
 slideshow:               "show.qml"
